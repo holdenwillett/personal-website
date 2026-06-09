@@ -7,7 +7,7 @@ export default function Experience(props) {
       period: "May 2026 – Present",
       location: "Silvis, IL",
       current: true,
-      tags: ["MATLAB", "Simulink"],
+      tags: ["MATLAB", "Simulink", "Control Systems", "Electrical Schematics"],
       bullets: [
         "Apply MATLAB and Simulink to support product engineering and system modeling on an active design team.",
         "Collaborate with cross-functional engineers to contribute to product development processes.",
@@ -20,7 +20,7 @@ export default function Experience(props) {
       period: "Jan 2025 – Aug 2025",
       location: "Cedar Rapids, IA",
       current: false,
-      tags: ["Electrical Engineering", "Wiring Diagrams", "PDM", "SAP"],
+      tags: ["Electrical Troubleshooting", "Wiring Diagrams", "Requirements Management"],
       bullets: [
         "Contributed to a circuit board re-spin by authoring an engineering markup for a custom adapter board; collaborated with design engineers to finalize documentation.",
         "Coordinated resolution of recurring component failures with component engineers, supply chain, and vendors to drive specification updates.",
@@ -36,7 +36,7 @@ export default function Experience(props) {
       period: "May 2024 – Aug 2024",
       location: "Ankeny, IA",
       current: false,
-      tags: ["SQL", "C#", "Azure DevOps", "Git", "Agile"],
+      tags: ["SQL", "C#", "Git", "Azure DevOps", "Agile", "Supply Chain Software"],
       bullets: [
         "Developed optimized SQL queries and stored procedures to track supply chain data across 50+ stores.",
         "Supported migration of data for 2,600+ stores and 3 distribution centers to new order prediction software.",
@@ -52,7 +52,7 @@ export default function Experience(props) {
       period: "Jun 2023 – Aug 2023",
       location: "Davenport, IA",
       current: false,
-      tags: ["JavaScript", "Infor", "Microsoft 365"],
+      tags: ["JavaScript", "Front-End Development", "Microsoft 365", "IT Support"],
       bullets: [
         "Developed front-end features for internal business software using JavaScript and Infor.",
         "Led evaluation of a new phone system, assessing call trees, user permissions, and virtual receptionist configuration.",

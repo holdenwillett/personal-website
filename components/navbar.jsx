@@ -18,7 +18,7 @@ export default function Navbar () {
                                 <a href="#skills">Skills</a>
                             </li>
                             <li>
-                                <a href="#portfolio">Portfolio</a>
+                                <a href="#experience">Experience</a>
                             </li>
                             <li>
                                 <a href="#contact">Contact</a>
@@ -38,7 +38,7 @@ export default function Navbar () {
                             <a href="#skills">Skills</a>
                         </li>
                         <li>
-                            <a href="#portfolio">Portfolio</a>
+                            <a href="#experience">Experience</a>
                         </li>
                         <li>
                             <a href="#contact">Contact</a>

@@ -7,7 +7,7 @@ import Navbar from "../components/navbar"
 import Landing from "../components/landing"
 import About from "../components/about"
 import Skills from "../components/skills"
-import Portfolio from "../components/portfolio"
+import Experience from "../components/experience"
 import Contact from "../components/contact"
 
 export default function Index() {
@@ -21,10 +21,10 @@ export default function Index() {
     <>
       <ParallaxProvider>
         <Head>
-          <title>Marc Bernardino</title>
-          <meta name="description" content="A software engineer, computer scientist, and student striving to make impact through code."/>
-          <meta name="keywords" content="Stanford, Computer Science, Marc Bernardino, Marc Reniel Bernardino, Software Engineer, Coding"/>
-          <meta name="author" content="Marc Bernardino"/>
+          <title>Holden Willett</title>
+          <meta name="description" content="An electrical engineer and software developer, student at the University of Iowa striving to build impactful solutions."/>
+          <meta name="keywords" content="University of Iowa, Electrical Engineering, Computer Science, Holden Willett, Software Engineer"/>
+          <meta name="author" content="Holden Willett"/>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico"/>
         </Head>
@@ -65,12 +65,7 @@ export default function Index() {
             </svg>
           </div>
           <Skills id="skills"/>
-          <Portfolio id="portfolio"/>
-          <div className="z-0 relative">
-          <svg data-aos="zoom-out" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 180" className="absolute bottom-0">
-            <path fill="#1e2837" fillOpacity="1" d="M0,96L80,96C160,96,320,96,480,112C640,128,800,160,960,160C1120,160,1280,128,1360,112L1440,96L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
-            </svg>
-          </div>
+          <Experience id="experience"/>
           <Contact id="contact"/>
         </Parallax>
       </ParallaxProvider>

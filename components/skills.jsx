@@ -9,68 +9,53 @@ export default function Skills (props) {
                     <div className="card w-11/12 md:w-72 bg-mist-black my-3 shadow-xl">
                         <div className="card-body">
                             <h2 className="card-title">
-                            📜 Languages 
+                            📜 Languages
                             </h2>
                             <div className="card-actions justify-start">
-                                <div className="badge badge-outline badge-info">JavaScript</div>
-                                <div className="badge badge-outline badge-info">TypeScript</div>
-                                <div className="badge badge-outline badge-info">HTML/CSS</div>
                                 <div className="badge badge-outline badge-info">Java</div>
                                 <div className="badge badge-outline badge-info">C++</div>
-                                <div className="badge badge-outline badge-info">Python</div>
+                                <div className="badge badge-outline badge-info">SQL</div>
+                                <div className="badge badge-outline badge-info">C#</div>
+                                <div className="badge badge-outline badge-info">MATLAB</div>
                             </div>
                         </div>
                     </div>
                     <div className="card w-11/12 md:w-72 bg-mist-black my-3 shadow-xl">
                         <div className="card-body">
                             <h2 className="card-title">
-                            🖥️ Techologies
+                            🔧 Developer Tools
                             </h2>
                             <div className="card-actions justify-start">
-                                <div className="badge badge-outline badge-info">Node.js</div>
-                                <div className="badge badge-outline badge-info">React</div>
-                                <div className="badge badge-outline badge-info">React Native</div>
-                                <div className="badge badge-outline badge-info">Next.js</div>
-                                <div className="badge badge-outline badge-info">Express</div>
-                                <div className="badge badge-outline badge-info">TailwindCSS</div>
-                                <div className="badge badge-outline badge-info">Flask</div>
-                                <div className="badge badge-outline badge-info">TensorFlow</div>
-                                <div className="badge badge-outline badge-info">LangChain</div>
-                                <div className="badge badge-outline badge-info">Selenium</div>
-                                <div className="badge badge-outline badge-info">PyTorch</div>
-                                <div className="badge badge-outline badge-info">SKLearn</div>
-                                <div className="badge badge-outline badge-info">OpenCV</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="card w-11/12 md:w-72 bg-mist-black my-3 shadow-xl">
-                        <div className="card-body">
-                            <h2 className="card-title">
-                            🔧 Developer Tools 
-                            </h2>
-                            <div className="card-actions justify-start">
-                                <div className="badge badge-outline badge-info">Jira</div>
                                 <div className="badge badge-outline badge-info">Git</div>
-                                <div className="badge badge-outline badge-info">VS Code</div>
-                                <div className="badge badge-outline badge-info">Amazon Web Services</div>
-                                <div className="badge badge-outline badge-info">Google Cloud Platform</div>
-                                <div className="badge badge-outline badge-info">Oracle Cloud</div>
-                                <div className="badge badge-outline badge-info">DigitalOcean</div>
-                                <div className="badge badge-outline badge-info">Supabase</div>
+                                <div className="badge badge-outline badge-info">Jira</div>
+                                <div className="badge badge-outline badge-info">Azure DevOps</div>
+                                <div className="badge badge-outline badge-info">Visual Studio</div>
+                                <div className="badge badge-outline badge-info">CLion</div>
+                                <div className="badge badge-outline badge-info">Simulink</div>
                             </div>
                         </div>
                     </div>
                     <div className="card w-11/12 md:w-72 bg-mist-black my-3 shadow-xl">
                         <div className="card-body">
                             <h2 className="card-title">
-                            🌐 Databases 
+                            ⚙️ Hardware Tools
                             </h2>
                             <div className="card-actions justify-start">
-                                <div className="badge badge-outline badge-info">PostgreSQL</div>
-                                <div className="badge badge-outline badge-info">Firebase</div>
-                                <div className="badge badge-outline badge-info">MongoDB</div>
-                                <div className="badge badge-outline badge-info">Convex</div>
-                                <div className="badge badge-outline badge-info">Amazon DynamoDB</div>
+                                <div className="badge badge-outline badge-info">Multimeter</div>
+                                <div className="badge badge-outline badge-info">Oscilloscope</div>
+                                <div className="badge badge-outline badge-info">Power Supply</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="card w-11/12 md:w-72 bg-mist-black my-3 shadow-xl">
+                        <div className="card-body">
+                            <h2 className="card-title">
+                            🖥️ Other
+                            </h2>
+                            <div className="card-actions justify-start">
+                                <div className="badge badge-outline badge-info">Microsoft 365</div>
+                                <div className="badge badge-outline badge-info">SAP</div>
+                                <div className="badge badge-outline badge-info">PDM</div>
                             </div>
                         </div>
                     </div>

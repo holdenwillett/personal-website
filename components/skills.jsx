@@ -16,8 +16,6 @@ export default function Skills (props) {
                                 <div className="badge badge-outline badge-info">C++</div>
                                 <div className="badge badge-outline badge-info">SQL</div>
                                 <div className="badge badge-outline badge-info">C#</div>
-                                <div className="badge badge-outline badge-info">MATLAB</div>
-<div className="badge badge-outline badge-info">JavaScript</div>
                             </div>
                         </div>
                     </div>
@@ -27,13 +25,12 @@ export default function Skills (props) {
                             🔧 Developer Tools
                             </h2>
                             <div className="card-actions justify-start">
+                                <div className="badge badge-outline badge-info">MATLAB</div>
+                                <div className="badge badge-outline badge-info">Simulink</div>
                                 <div className="badge badge-outline badge-info">Git</div>
                                 <div className="badge badge-outline badge-info">Jira</div>
                                 <div className="badge badge-outline badge-info">Azure DevOps</div>
                                 <div className="badge badge-outline badge-info">Visual Studio</div>
-                                <div className="badge badge-outline badge-info">CLion</div>
-                                <div className="badge badge-outline badge-info">Simulink</div>
-                                <div className="badge badge-outline badge-info">SSMS</div>
                             </div>
                         </div>
                     </div>
@@ -46,7 +43,6 @@ export default function Skills (props) {
                                 <div className="badge badge-outline badge-info">Multimeter</div>
                                 <div className="badge badge-outline badge-info">Oscilloscope</div>
                                 <div className="badge badge-outline badge-info">Power Supply</div>
-                                <div className="badge badge-outline badge-info">Wiring Diagrams</div>
                             </div>
                         </div>
                     </div>
